@@ -1,4 +1,4 @@
-,titulo,preco_original,desconto_percentual,preco_com_desconto,quantidade_vendida,marca,material,genero,temporada,nota_satisfacao,quantidade_avaliações
+,titulo,preco_original,desconto_percentual,preco_com_desconto,quantidade_vendida,marca,material,genero,temporada,nota_satisfacao,quantidade_avals
 0,Short Saia Feminina adidas Skirt Essentials 3 Listras,R$ 312.79,36%,R$ 229.99,1,adidas,Elastano,Feminino,Outono/Inverno,Sem avaliação,0
 1,Short Masculino adidas Sports Club,R$ 349.99,0%,R$ 349.99,4,adidas,Elastano,Masculino,Outono/Inverno,Sem avaliação,0
 2,Bermuda Masculina adidas Club Graphic,R$ 169.99,0%,R$ 169.99,1,adidas,Reciclado,Masculino,Outono/Inverno,Sem avaliação,0
@@ -125,58 +125,257 @@
 123,Bermuda Fila Letter Masculina Original Tendência,R$ 155.90,0%,R$ 155.90,3,Fila,50% - ALGODAO 50% - POLIESTER,Masculino,Primavera/Verão,Sem avaliação,0
 124,Bermuda Masculina Fila Sports Color Ii,R$ 288.19,31%,R$ 219.99,0,Fila,Elastano,Masculino,Outono/Inverno,Sem avaliação,0
 125,Bermuda Masculina Fila Basic Letter,R$ 264.59,47%,R$ 179.99,1,Fila,Algodão,Masculino,Primavera/Verão,Sem avaliação,0
-126,Bermuda John John Jeans Clássica Livorno Masculina,R$ 339.00,0%,R$ 339.00,5,John John,Jean,Masculino,Primavera/Verão,Sem avaliação,0
-127,Shorts John John Alto Berlim Feminino,R$ 348.00,0%,R$ 348.00,1,John John,Jeans,Feminino,Outono/Inverno,Sem avaliação,0
-128,Bermuda Térmica Masculina Esportiva Corrida Academia Treino,R$ 62.86,26%,R$ 49.89,10000,Keeper,Microfibra,Masculino,Primavera/Verão,4.8,1003
-129,Bermuda Térmica Anti Assadura Feminina Shorts Esporte Novo,R$ 51.91,21%,R$ 42.90,100,Keeper,Microfibra,Feminino,Primavera/Verão,3.1,14
-130,Bermuda Térmica Masculina Esportiva Corrida Academia Treino,R$ 60.16,24%,R$ 48.52,10000,Keeper,Microfibra,Masculino,Primavera/Verão,4.8,1004
-131,Short Térmico Bermuda Masculina Original Academia Treino,R$ 52.85,18%,R$ 44.79,500,Keeper,Microfibra,Masculino,Primavera/Verão,4.6,63
-132,Bermuda Térmica Feminina Esportiva Sem Costura Keeper,R$ 48.85,16%,R$ 42.11,25,Keeper,Microfibra,Feminino,Primavera/Verão,Sem avaliação,0
-133,Bermdua Térmica Short Academia Fitness Feminino Corrida,R$ 46.96,10%,R$ 42.69,5,Keeper,Microfibra,Feminino,Primavera/Verão,Sem avaliação,0
-134,Bermuda Térmica Academia Feminino Cintura Alta Fitness Top,R$ 48.85,16%,R$ 42.11,5,Keeper,Microfibra,Feminino,Primavera/Verão,Sem avaliação,0
-135,Kit 5 Cuecas Anti Assadura Sem Atrito Academia E Corrida,R$ 173.97,16%,R$ 149.97,50,Keeper,Microfibra,Masculino,Primavera/Verão,5,11
-136,Bermuda Térmica Masculina Esportiva Corrida Academia Treino,R$ 60.16,24%,R$ 48.52,10000,Keeper,Microfibra,Masculino,Primavera/Verão,3.1,1004
-137,Bermuda Térmica Anti Assadura Feminina Shorts Esporte Novo,R$ 54.85,14%,R$ 48.11,100,Keeper,Microfibra,Feminino,Primavera/Verão,4.7,40
-138,Kit 3 Bermuda Short Academia Fitness Feminino Tecido Térmico,R$ 158.88,14%,R$ 139.37,5,Keeper,Microfibra,Feminino,Primavera/Verão,3.1,1
-139,Bermuda Térmica Masculina Segunda Pele Anti Assadura Premium,R$ 52.85,18%,R$ 44.79,5,Keeper,Microfibra,Masculino,Primavera/Verão,Sem avaliação,0
-140,Kit 5 Cuecas Anti Assadura Esportiva Sem Costura Premium,R$ 273.96,37%,R$ 199.97,100,Keeper,Microfibra,Masculino,Primavera/Verão,3.1,50
-141,Bermuda Térmica Masculinas Atacado Revenda Esportiva Com Nf,R$ 52.85,18%,R$ 44.79,5,Keeper,Microfibra,Masculino,Primavera/Verão,Sem avaliação,0
-142,Kit 10 Cuecas Boxer Keeper Algodão Cotton Original Box,R$ 197.89,0%,R$ 197.89,2,Keeper,Algodão,Masculino,Primavera/Verão,Sem avaliação,0
-143,Bermuda Térmica Anti Assadura Feminina Shorts Esporte Novo,R$ 46.96,10%,R$ 42.69,4,Keeper,Microfibra,Feminino,Primavera/Verão,Sem avaliação,0
-144,Bermuda Térmica Masculina Esportiva Corrida Academia Treino,R$ 60.16,24%,R$ 48.52,10000,Keeper,Microfibra,Masculino,Primavera/Verão,4.8,1005
-145,Kit 10 Cueca Keeper Box Boxer Cotton Algodão Original-nf,R$ 228.78,16%,R$ 197.22,2,Keeper,Algodão,Masculino,Primavera/Verão,Sem avaliação,0
-146,Kit C/ 3 Cueca Box Térmica Sem Costura Anti Assadura Premium,R$ 119.78,16%,R$ 103.26,1,Keeper,Microfibra,Masculino,Primavera/Verão,Sem avaliação,0
-147,Calça Jeans Levis 511 Original Slim Fit Elastano,R$ 339.00,0%,R$ 339.00,100,Levi's,Algodao/Elastano,Masculino,Outono/Inverno,3.1,14
-148,Calça Levis Jeans Masculina Tradicional Elastano C Baixa 514,R$ 309.00,0%,R$ 309.00,500,Levi's,Algodão e Elastano,Masculino,Outono/Inverno,3.1,52
-149,Calça Levis Jeans Masculina Tradicional Elastano C Baixa 514,R$ 309.00,0%,R$ 309.00,50,Levi's,Algodão e Elastano,Masculino,Outono/Inverno,3.1,12
-150,Calça Jeans Levis 511 Original Slim Fit Elastano,R$ 339.00,0%,R$ 339.00,5,Levi's,Algodao/Elastano,Masculino,Outono/Inverno,4.1,3
-151,Calça Levi's 511 Slim Original Masculina,R$ 314.99,0%,R$ 314.99,500,Levi's,Algodão,Masculino,Primavera/Verão,3.1,109
-152,Calça Jeans Levis 501 Original Masculina Tradicional 115,R$ 319.00,0%,R$ 319.00,100,Levi's,Algodão,Masculino,Outono/Inverno,3.1,61
-153,Calça Levi's 501 Original Masculina 100% Algodão Importada,R$ 330.86,5%,R$ 315.10,100,Levi's,Algodão,Masculino,Primavera/Verão,3.1,28
-154,Calça Levis 501 Original Tradicional Masculina 100% Algodão,R$ 334.99,0%,R$ 334.99,100,Levi's,Algodão,Masculino,Primavera/Verão,3.1,29
-155,Calça Levi´s 505 Com Elastano Lb5050008,R$ 299.90,0%,R$ 299.90,50,Levi's,ALGODÃO COM ELASTANO,Masculino,Primavera/Verão,3.1,7
-156,Calça Levis Jeans 505 Azul Escuro,R$ 369.99,0%,R$ 369.99,100,Levi's,100% algodão,Masculino,Outono/Inverno,4.8,32
-157,Calça Levis Jeans 511 Slim Masculino Cintura Media Elastano,R$ 299.00,0%,R$ 299.00,50,Levi's,Algodão/Elastano,Masculino,Primavera/Verão,3.1,8
-158,Calça Levis Jeans 511 Slim Masculino Cintura Media Elastano,R$ 309.00,0%,R$ 309.00,500,Levi's,Algodão/Elastano,Masculino,Primavera/Verão,4.4,60
-159,Calça Jeans Levis 505 Tradicional Elastano Loja Aurorizada,R$ 299.00,0%,R$ 299.00,3,Levi's,Algodao /Elastano,Masculino,Primavera/Verão,Sem avaliação,0
-160,Calça Levi's 505 Masculina Sarja Com Elastano - Cor Preta,R$ 319.00,0%,R$ 319.00,50,Levi's,Sarja,Masculino,Outono/Inverno,3.1,7
-161,Calça Levis 511 Slim Original Masculina Importada Lançamento,R$ 369.99,0%,R$ 369.99,100,Levi's,Algodão,Masculino,Primavera/Verão,3.1,18
-162,Calça Levis Jeans Feminina Super Skinny 720 Elastano C. Alta,R$ 339.00,0%,R$ 339.00,50,Levi's,Algodão/Elastano,Feminino,Primavera/Verão,4.9,8
-163,Calça Levis 505 Original 100% Algodão Revendedor Autorizado,R$ 342.88,5%,R$ 326.55,100,Levi's,Algodão,Masculino,Outono/Inverno,4.5,25
-164,Calça Masculina Levis Jeans Azul 505 Escuro Ref:lb5050008,R$ 319.29,0%,R$ 319.29,3,Levi's,Algodão,Masculino,Primavera/Verão,Sem avaliação,0
-165,Calça Levi's 511 Masculina Sarja Com Elastano - Preta,R$ 367.90,0%,R$ 367.90,100,Levi's,Algodão,Masculino,Outono/Inverno,4.3,15
-166,Calça Levi´s 511 Slim Com Elastano Ref Lb5110018,R$ 318.90,0%,R$ 318.90,100,Levi's,Algodão com elastano,Masculino,Outono/Inverno,4.5,14
-167,Blusa De Moletom Las Vegas Raiders New Era Nfl Masculino Com,R$ 482.79,42%,R$ 339.99,1,New Era,N/A,Masculino,Outono/Inverno,Sem avaliação,0
-168,Short Essential 9 Masculino Olympikus Novo,R$ 145.75,22%,R$ 119.47,50,Olympikus,Poliéster,Masculino,Primavera/Verão,3.1,16
-169,Short Essential 5 Masculina Olympikus,R$ 174.31,59%,R$ 109.63,25,Olympikus,Poliéster,Masculino,Primavera/Verão,2.1,6
-170,Bermuda Olympikus Essential 9 Preta,R$ 78.99,0%,R$ 78.99,5,Olympikus,Poliéster,Masculino,Primavera/Verão,Sem avaliação,0
-171,Short Essential Feminino Olympikus,R$ 133.33,22%,R$ 109.29,25,Olympikus,Poliéster,Feminino,Primavera/Verão,5,3
-172,Short Casual Feminino Olympikus Oferta,R$ 215.99,44%,R$ 149.99,25,Olympikus,Poliéster,Feminino,Primavera/Verão,4.5,4
-173,Bermuda Feminina Puma Lemlem Bike,R$ 209.99,0%,R$ 209.99,0,Puma,Poliamida,Feminino,Outono/Inverno,Sem avaliação,0
-174,Kit 4 Cuecas Boxer Puma Masculina Box Sem Costura Original,R$ 191.46,19%,R$ 160.89,1000,Puma,Poliamida,Masculino,Outono/Inverno,3.1,301
-175,Bermuda Masculina Puma Active Woven 5,R$ 99.99,0%,R$ 99.99,5,Puma,Poliéster,Masculino,Outono/Inverno,Sem avaliação,0
-176,Bermuda De Moletom Puma Essentials 10 - Masculina,R$ 188.99,26%,R$ 149.99,3,Puma,Algodão,Masculino,Outono/Inverno,Sem avaliação,0
-177,Bermuda Under Armour Woven Graphic Preto Vermelho,R$ 199.99,0%,R$ 199.99,1,Under Armour,Poliéster,Masculino,Primavera/Verão,Sem avaliação,0
-178,Calça Capri Under Armour Heat Gear Hi Feminina Preta,R$ 218.00,0%,R$ 218.00,1,Under Armour,Poliéster,Feminino,Outono/Inverno,Sem avaliação,0
-179,Bermuda Under Armour Tech Mesh Azul,R$ 119.90,0%,R$ 119.90,1,Under Armour,Poliéster,Masculino,Outono/Inverno,Sem avaliação,0
-180,Short De Treino Launch 7 Masculina Under Armour Novo,R$ 323.99,20%,R$ 269.99,5,Under Armour,Poliéster,Masculino,Outono/Inverno,Sem avaliação,0
+126,Kit Com 10 Cuecas Boxer Algodão Sem Costura Zorba 781,R$ 239.88,20%,R$ 199.90,50000,Zorba,Algodão,Masculino,N/A,3.1,5682
+127,Pacote 4 Cuecas Boxer Algodão Box Masculina Cotton Zorba,R$ 132.49,25%,R$ 105.99,10000,Zorba,Algodão,Masculino,Primavera-verão Outono-inverno,3.1,2290
+128,Kit Com 10 Cuecas Slip Algodão Zorba,R$ 199.88,25%,R$ 159.90,1000,Zorba,Algodão,Masculino,Primavera/Verão,3.1,426
+129,Kit 4 Cuecas Boxer Box Sem Costura Algodão Masculino Zorba,R$ 171.44,43%,R$ 119.89,5000,Zorba,Algodão,Masculino,N/A,4.7,1478
+130,Kit 5 Cuecas Zorba Tradicional Slip Ligth Algodão Original,R$ 140.67,28%,R$ 109.90,100,Zorba,Algodão,Masculino,Primavera/Verão,3.1,23
+131,Kit Com 10 Cuecas Boxer Algodão Sem Costura Zorba 781,R$ 239.88,20%,R$ 199.90,50000,Zorba,Algodão,Masculino,N/A,4.7,5682
+132,Kit 4 Cuecas Boxer Box Sem Costura Algodão Masculino Zorba,R$ 171.44,43%,R$ 119.89,5000,Zorba,Algodão,Masculino,N/A,4.7,1478
+133,Kit 6 Cuecas Slip Light Zorba Algodão Original 772 Oferta,R$ 109.49,0%,R$ 109.49,100,Zorba,Algodão,Masculino,Primavera/Verão Outono/Inverno,4.8,17
+134,Kit Com 10 Cuecas Boxer Algodão Sem Costura Zorba 781,R$ 239.88,20%,R$ 199.90,50000,Zorba,Algodão,Masculino,N/A,3.1,5688
+135,Kit 4 Cuecas Boxer Box Sem Costura Algodão Masculino Zorba,R$ 171.44,43%,R$ 119.89,5000,Zorba,Algodão,Masculino,N/A,4.7,1479
+136,Kit 6 Cuecas Zorba Boxer Algodão Cotton Box Masculina - Nf,R$ 134.99,0%,R$ 134.99,25,Zorba,Algodão,Masculino,Primavera-verão Outono-inverno,3.1,5
+137,Kit Com 4 Cueca Box Zorba Algodão - Boxer Sem Costura 781,R$ 132.49,25%,R$ 105.99,1000,Zorba,Algodão,Masculino,Primavera-verão Outono-inverno,4.7,215
+138,Kit Com 5 Cuecas Slip Light Algodão Conforto Duradouro Zorba,R$ 78.90,0%,R$ 78.90,5,Zorba,Algodão,Masculino,Primavera/Verão,Sem avaliação,0
+139,Kit Com 6 Cueca Box Zorba Algodão - Boxer Sem Costura 781,R$ 125.99,0%,R$ 125.99,100,Zorba,Algodão,Masculino,Primavera-verão Outono-inverno,4.8,21
+140,Kit Com 10 Cuecas Boxer Algodão Sem Costura Zorba 781,R$ 239.88,20%,R$ 199.90,50000,Zorba,Algodão,Masculino,N/A,4.7,5688
+141,Kit 4 Cuecas Boxer Box Sem Costura Algodão Masculino Zorba,R$ 171.44,43%,R$ 119.89,5000,Zorba,Algodão,Masculino,N/A,3.1,1479
+142,Kit Com 8 Cuecas Infantil Boxer Sem Costura Algodão Zorba,R$ 149.90,0%,R$ 149.90,5,Zorba,Algodão,Meninos,Primavera/Verão,4.1,1
+143,Kit Com 10 Cuecas Boxer Algodão Sem Costura Zorba 781,R$ 239.88,20%,R$ 199.90,50000,Zorba,Algodão,Masculino,N/A,3.1,5691
+144,Kit 4 Cuecas Boxer Box Sem Costura Algodão Masculino Zorba,R$ 171.44,43%,R$ 119.89,5000,Zorba,Algodão,Masculino,N/A,3.1,1480
+145,Kit 2 Cuecas Box Boxer Zorba Algodão Sem Costura 781 Full,R$ 47.72,10%,R$ 43.38,1000,Zorba,Algodão,Masculino,N/A,4.8,292
+146,Kit 3 Short Jeans Feminino Cintura Alta Barato Atacado,R$ 140.83,9%,R$ 129.20,1000,Menina Linda,Jean,Feminino,Primavera/Verão,3.1,507
+147,Kit 3 Short Jeans Feminino Cintura Alta Barato Atacado,R$ 140.83,9%,R$ 129.20,1000,Menina Linda,Jean,Feminino,Primavera/Verão,3.1,507
+148,Kit 3 Short Jeans Feminino Cintura Alta Barato Atacado,R$ 109.99,0%,R$ 109.99,50,Menina Linda,Algodão,Feminino,Primavera/Verão,3.1,4
+149,Calça Jeans Flare Feminina Azul Escura Amaciada,R$ 69.88,8%,R$ 64.70,100,Menina Linda,Jeans,Feminino,Outono/Inverno,3.1,49
+150,Short Jeans Feminino Com Elastano Barra Dobrada Cintura Alta,R$ 54.93,11%,R$ 49.49,100,Menina Linda,Jean,Feminino,Primavera/Verão,3.1,27
+151,Kit 3 Short Jeans Feminino Cintura Alta Barato Atacado,R$ 140.83,9%,R$ 129.20,1000,Menina Linda,Jean,Feminino,Primavera/Verão,3.1,507
+152,Kit 3 Short Jeans Feminino Cintura Alta Barato Atacado,R$ 140.83,9%,R$ 129.20,1000,Menina Linda,Jean,Feminino,Primavera/Verão,3.1,507
+153,Short Jeans Feminino Com Lycra Cintura Alta Levanta Bumbum,R$ 36.10,0%,R$ 36.10,25,Menina Linda,Algodão,Feminino,Primavera/Verão,4.9,7
+154,Kit 3 Short Jeans Feminino Cintura Alta Barato Atacado,R$ 140.83,9%,R$ 129.20,1000,Menina Linda,Jean,Feminino,Primavera/Verão,3.1,507
+155,Shorts Saia Jeans Plus Size Com Detalhes E Lycra,R$ 71.96,8%,R$ 66.63,1000,Menina Linda,Algodão,Feminino,Primavera/Verão,3.1,141
+156,Kit 3 Short Jeans Cintura Alta Levanta Bumbum Destroyed,R$ 142.90,10%,R$ 129.91,100,Menina Linda,Algodão,Feminino,Primavera/Verão,4.6,68
+157,Kit 2 Short Jeans Plus Size Feminino Cintura Alta Com Lycra,R$ 154.94,11%,R$ 139.59,5,Menina Linda,Algodão,Feminino,Primavera/Verão,Sem avaliação,0
+158,Kit 3 Short Jeans Feminino Cintura Alta Com Lycra Modelador,R$ 176.02,18%,R$ 149.17,5,Menina Linda,Algodão,Feminino,Primavera/Verão,4.4,8
+159,Kit De 3 Calça Jeans Feminina Skinny Cintura Alta Com Lycra,R$ 189.94,6%,R$ 179.19,500,Menina Linda,Jeans,Feminino,Outono/Inverno,3.1,170
+160,Short Saia Plus Size Jeans Feminino Cintura Alta Com Lycra,R$ 70.94,7%,R$ 66.30,500,Menina Linda,Algodão,Feminino,Primavera/Verão,4.6,127
+161,Short Jeans Plus Size Feminino Cintura Alta Com Lycra Curto,R$ 63.83,8%,R$ 59.10,25,Menina Linda,Algodão,Feminino,Primavera/Verão,4.2,9
+162,Short Jeans Feminino Destroyed Cós Alto Com Lycra Desfiado,R$ 48.94,10%,R$ 44.49,100,Menina Linda,Jean,Feminino,Primavera/Verão,3.1,53
+163,Kit 2 Short Jeans Feminino Plus Size Cintura Alta Com Lycra,R$ 153.80,10%,R$ 139.82,3,Menina Linda,Algodão,Feminino,Primavera/Verão,Sem avaliação,0
+164,Short Jeans Feminio Basico Hotpants Azul Escuro,R$ 29.90,0%,R$ 29.90,25,Menina Linda,Jean,Feminino,Primavera/Verão,3.1,1
+165,Short Jeans Preto Feminino Cintura Alta Levanta Bumbum,R$ 54.90,10%,R$ 49.91,5,Menina Linda,Algodão,Feminino,Primavera/Verão,Sem avaliação,0
+166,Kit 3 Short Jeans Feminino Cintura Alta Barato Atacado,R$ 140.83,9%,R$ 129.20,1000,Menina Linda,Jean,Feminino,Primavera/Verão,4.4,508
+167,Calça Jeans Feminina Hot Pants Mon Destroyde Promoção,R$ 69.88,8%,R$ 64.70,100,Menina Linda,Sarja,Feminino,Primavera/Verão,4.3,24
+168,Kit 3 Calça Masculina Com Lycra Roupas Skinny Justa Premium,R$ 180.15,0%,R$ 180.15,10000,MultiMarcas,Jeans Que Estica Muito,Masculino,Primavera/Verão,3.1,1326
+169,Bermuda Masculina Sport Fino Alfaiataria Sarja Premium Bege,R$ 78.41,0%,R$ 78.41,100,MultiMarcas,Sarja C/ Elastano,Masculino,Outono/Inverno,3.1,36
+170,Organizador Necessaire Mala Kit 6 Pratico Look Roupas Viagem,R$ 30.90,0%,R$ 30.90,50,MultiMarcas,Nylon,Sem gênero,N/A,4.3,4
+171,Bermuda Masculina Sport Fino Alfaiataria Sarja Premium Bege,R$ 78.41,0%,R$ 78.41,100,MultiMarcas,Sarja C/ Elastano,Masculino,Outono/Inverno,3.1,36
+172,Combo Kit3 Roupas Calças Justas Skinny Masculina Jeans Lycra,R$ 179.90,0%,R$ 179.90,100,MultiMarcas,Jeans Premium,Masculino,Outono/Inverno,3.1,25
+173,5 Bermudas Feminina Gorgurão Com Elástico Senhora Atacado,R$ 170.79,5%,R$ 162.66,500,MultiMarcas,Gorgurão,Feminino,Primavera/Verão,4.8,127
+174,Kit 3 Calça Masculina Com Lycra Roupas Skinny Justa Premium,R$ 180.15,0%,R$ 180.15,10000,MultiMarcas,Jeans Que Estica Muito,Masculino,Primavera/Verão,3.1,1326
+175,Roupas Jeans Calça Masculina Moda Tradicional,R$ 60.00,0%,R$ 60.00,100,MultiMarcas,Sarja/Jeans,Masculino,Primavera/Verão,3.1,28
+176,Macacão Goku Mesversário Roupa Bebê Menino + Boina Promoção,R$ 43.99,10%,R$ 39.99,100,MultiMarcas,N/A,Bebês,Primavera/Verão,3.1,4
+177,Calça Sarja Roupas Masculinas Slim Skinny Colada Rasgada,R$ 77.77,0%,R$ 77.77,50,MultiMarcas,Sarja Premium,Masculino,Primavera/Verão,Sem avaliação,0
+178,Flare Jeans Plus Size Kit 2 Calça Flare Plus Size,R$ 149.89,0%,R$ 149.89,5,MultiMarcas,Jeans,Feminino,Primavera/Verão,Sem avaliação,0
+179,Kit 3 Calça Masculina Com Lycra Roupas Skinny Justa Premium,R$ 180.15,0%,R$ 180.15,10000,MultiMarcas,Jeans Que Estica Muito,Masculino,Primavera/Verão,4.4,1328
+180,Kit Com 5 Bermudas Feminina Gorgurão Plus Size 36 Ao 60,R$ 149.90,0%,R$ 149.90,1,MultiMarcas,GORGURINHO,Feminino,Primavera/Verão,Sem avaliação,0
+181,Kit 10 T-shirts Blusas Feminina Roupas Atacado Revenda,R$ 197.00,0%,R$ 197.00,1000,MultiMarcas,N/A,Feminino,Primavera/Verão,4,172
+182,Kit 2 Bermudas Roupas Plus Size Feminina Lycra Elástico Top,R$ 127.99,0%,R$ 127.99,100,MultiMarcas,Algodão,Feminino,Primavera/Verão,4.6,62
+183,Kit 3 Calças Jeans Linha Roupas Masculinas Skinny Envio 24hs,R$ 180.00,0%,R$ 180.00,100,MultiMarcas,Jeans Premium,Masculino,Outono/Inverno,3.1,10
+184,Kit 3 Calça Masculina Com Lycra Roupas Skinny Justa Premium,R$ 180.15,0%,R$ 180.15,10000,MultiMarcas,Jeans Que Estica Muito,Masculino,Primavera/Verão,3.1,1329
+185,Kit 2 Calças Masculina Jeans Pra Trabalho Corte Reto,R$ 141.49,10%,R$ 128.63,100,MultiMarcas,100% algodão,Masculino,Outono/Inverno,3.1,34
+186,Kit Com 5 Bermudas Feminina Gorgurão Plus Size 36 Ao 60,R$ 165.61,5%,R$ 157.72,500,MultiMarcas,GORGURINHO,Feminino,Primavera/Verão,3.1,82
+187,Kit2 Calça Plus Size Feminina Jeans Cintura Alta Flare,R$ 154.89,0%,R$ 154.89,5,MultiMarcas,Jeans,Feminino,Primavera/Verão,Sem avaliação,0
+188,Conjunto Feminino Plus Size Calça E Blusa Tamanhos Grandes,R$ 130.10,0%,R$ 130.10,4,MultiMarcas,Blusa: 96% viscose e 4% elastano; Calça: 95% poliéster e 5% elastano.,Feminino,Outono/Inverno,Sem avaliação,0
+189,Kit 3 Calça Masculina Com Lycra Roupas Skinny Justa Premium,R$ 180.15,0%,R$ 180.15,10000,MultiMarcas,Jeans Que Estica Muito,Masculino,Primavera/Verão,3.1,1329
+190,Roupa Social Infantil Bebê Menino Batizado Casamento Promo,R$ 131.99,0%,R$ 131.99,1000,MultiMarcas,N/A,Bebês,N/A,4.8,187
+191,Calca Feminina Roupa Jean Plus Size Cintura Alta Lycra,R$ 135.63,5%,R$ 129.17,2,MultiMarcas,Algodão,Mulher,Outono/Inverno,Sem avaliação,0
+192,Roupa Ballet Infantil Vermelha Kit Completo Uniforme Ballet,R$ 125.90,0%,R$ 125.90,3,MultiMarcas,N/A,Feminino,N/A,5,1
+193,Roupa De Bailarina De Ballet Infantil Azul,R$ 139.90,0%,R$ 139.90,5,MultiMarcas,N/A,Feminino,N/A,5,1
+194,Calça Jeans Preta Feminina Super Lycra  Skinny Cintura Alta,R$ 69.98,13%,R$ 61.93,10000,Stillger Jeans,Sarja,Feminino,Outono/Inverno,3.1,1533
+195,Jaqueta Jeans Feminina Preta Com Lycra Roupas Atacado,R$ 70.94,10%,R$ 64.49,1000,Stillger Jeans,Algodão,Feminino,Outono/Inverno,3.1,249
+196,Short Jeans Feminino Cintura Alta Com Lycra Barra Dobrada,R$ 41.99,0%,R$ 41.99,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,3.1,46
+197,Short Jeans Feminino Cintura Alta Com Lycra Barra Dobrada,R$ 41.99,0%,R$ 41.99,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,4.5,46
+198,Short Jeans Feminino Sem Lycra Cintura Alta Barra Dobrada,R$ 48.59,7%,R$ 45.41,1000,Stillger Jeans,Algodão,Feminino,Primavera/Verão,4.3,297
+199,Calça Jeans Skinny Feminina Cintura Alta Com Lycra Promoção,R$ 67.83,9%,R$ 62.23,500,Stillger Jeans,Algodão,Feminino,Outono/Inverno,3.1,127
+200,Calça Plus Size Jeans Feminina Wide Leg Levanta Bumbum,R$ 72.89,6%,R$ 68.76,100,Stillger Jeans,Algodão,Feminino,Outono/Inverno,4.7,27
+201,Short Saia Jeans Plus Size Feminino Cintura Alta Com Lycra,R$ 80.90,11%,R$ 72.88,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,4.9,77
+202,Short Jeans Plus Size Feminino Com Lycra Cintura Alta,R$ 62.73,0%,R$ 62.73,5,Stillger Jeans,Algodão,Feminino,Primavera/Verão,Sem avaliação,0
+203,Calça Branca Jeans Feminina Skinny Cintura Alta Com Lycra,R$ 72.93,13%,R$ 64.54,1000,Stillger Jeans,Algodão,Feminino,Outono/Inverno,3.1,308
+204,Short Jeans Plus Size Cintura Alta Destroyed Com Lycra,R$ 71.97,11%,R$ 64.84,1000,Stillger Jeans,Jeans,Feminino,Primavera/Verão,3.1,208
+205,Kit 02 Calças Jeans Feminina Skinny Cintura Alta Modeladora,R$ 150.78,8%,R$ 139.61,100,Stillger Jeans,Algodão,Feminino,Outono/Inverno,4.4,30
+206,Short Jeans Feminino Sem Lycra Cintura Alta Barra Dobrada,R$ 48.59,7%,R$ 45.41,1000,Stillger Jeans,Algodão,Feminino,Primavera/Verão,4.3,297
+207,Short Jeans Plus Size Cintura Alta Barra Desfiada Com Lycra,R$ 69.29,7%,R$ 64.76,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,3.1,10
+208,Short Saia Jeans Plus Size Feminino Cintura Alta Com Lycra,R$ 80.90,11%,R$ 72.88,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,4.9,77
+209,Short Saia Jeans Plus Size Feminino Cintura Alta Com Lycra,R$ 80.90,11%,R$ 72.88,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,3.1,77
+210,Short Jeans Plus Size Cintura Alta Barra Desfiada Com Lycra,R$ 69.29,7%,R$ 64.76,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,4.4,10
+211,Short Jeans Feminino Levanta Bumbum Com Lycra Cintura Alta,R$ 58.80,18%,R$ 49.83,500,Stillger Jeans,Jean,Feminino,Primavera/Verão,3.1,98
+212,Kit 4 Calças Jeans Feminina Cintura Alta Premium Com Lycra,R$ 259.40,0%,R$ 259.40,5,Stillger Jeans,Algodão,Feminino,Outono/Inverno,4.5,2
+213,Calça Jeans Skinny Feminina Cintura Alta Com Lycra Promoção,R$ 74.42,25%,R$ 59.54,5,Stillger Jeans,Algodão,Feminino,Outono/Inverno,Sem avaliação,0
+214,Short Jeans Plus Size Feminino Cintura Alta Com Lycra,R$ 74.84,8%,R$ 69.30,25,Stillger Jeans,Algodão,Feminino,Primavera/Verão,3.1,4
+215,Short Jeans Feminino Sem Lycra Cintura Alta Barra Dobrada,R$ 48.59,7%,R$ 45.41,1000,Stillger Jeans,Algodão,Feminino,Primavera/Verão,3.1,298
+216,Short Jeans Feminino Cintura Alta Com Lycra Curto Hot Pants,R$ 49.93,10%,R$ 45.39,500,Stillger Jeans,Algodão,Feminino,Primavera/Verão,4.5,89
+217,Short Saia Jeans Plus Size Feminino Cintura Alta Com Lycra,R$ 80.90,11%,R$ 72.88,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,3.1,77
+218,Short Jeans Feminino Cintura Alta Levanta Bumbum Com Lycra,R$ 48.84,8%,R$ 45.22,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,3.1,36
+219,Short Jeans Feminino Cintura Alta Destroyed Hot Pants Curto,R$ 54.85,11%,R$ 49.41,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,3.1,33
+220,Calça Jeans Legging Feminina Cintura Alta Com Bolso Original,R$ 69.29,0%,R$ 69.29,5,Stillger Jeans,Algodão,Feminino,Outono/Inverno,5,3
+221,Short Jeans Feminino Sem Lycra Cintura Alta Barra Dobrada,R$ 48.59,7%,R$ 45.41,1000,Stillger Jeans,Algodão,Feminino,Primavera/Verão,4.3,299
+222,Short Saia Jeans Plus Size Feminino Cintura Alta Com Lycra,R$ 80.90,11%,R$ 72.88,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,3.1,77
+223,Short Jeans Feminino Preto Cintura Alta Com Lycra Hot Pants,R$ 49.90,0%,R$ 49.90,50,Stillger Jeans,Algodão,Feminino,Primavera/Verão,3.1,20
+224,Short Jeans Plus Size Com Lycra Levanta Bumbum Cintura Alta,R$ 68.79,6%,R$ 64.90,100,Stillger Jeans,Jean,Feminino,Primavera/Verão,4.4,45
+225,Kit 3 Short Jeans Feminino Levanta Bumbum Modela Cintura,R$ 170.62,14%,R$ 149.67,100,Stillger Jeans,Algodão,Feminino,Primavera/Verão,4.3,27
+226,Short Saia Jeans Plus Size Feminino Cintura Alta Com Lycra,R$ 79.96,10%,R$ 72.69,5,Stillger Jeans,Algodão,Feminino,Primavera/Verão,Sem avaliação,0
+227,Kit 3 Bermuda Jeans Feminina  Cintura Alta Com Lycra Liso,R$ 227.52,9%,R$ 208.73,5,Stillger Jeans,Algodão,Feminino,Primavera/Verão,2.8,4
+228,Kit 10 Cuecas Boxer Mash Algodão Cotton Box Original Oferta,R$ 279.86,22%,R$ 229.39,10000,Mash,Algodão,Masculino,Primavera/Verão,3.1,1700
+229,Kit 3 Cuecas Slip Tamanho Especial Plus Size Algodão Mash,R$ 89.88,20%,R$ 74.90,1000,Mash,Algodão,Masculino,N/A,3.1,218
+230,Kit 6 Cuecas Algodão Mash - Promoção Box Masculina Adulto,R$ 142.99,10%,R$ 129.99,1000,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,3.1,422
+231,Kit Com 10 Cuecas Slip Mash Básica Masculina Algodão Oferta,R$ 199.88,18%,R$ 169.39,5000,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,4.7,1266
+232,Kit Com 10 Cuecas Boxer Algodão Cotton Masculina Adulto Mash,R$ 240.82,15%,R$ 209.41,1000,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,3.1,327
+233,Kit Com 6 Cuecas Algodão Marca Mash - Box Masculina Cotton,R$ 180.88,21%,R$ 149.49,500,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,3.1,93
+234,Pacote 10 Cuecas Mash - Kit De Cuecas Slip Algodão Qualidade,R$ 134.00,0%,R$ 134.00,50,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,3.1,10
+235,Kit 10 Cuecas Boxer Mash Algodão Cotton Box Original Oferta,R$ 279.86,22%,R$ 229.39,10000,Mash,Algodão,Masculino,Primavera/Verão,3.1,1700
+236,Pacote 6 Cuecas Mash - Kit De Cuecas Slip Algodão Qualidade,R$ 71.90,0%,R$ 71.90,100,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,3.1,36
+237,Cueca Slip Microfibra Sem Costura Risca De Giz Original Mash,R$ 19.90,0%,R$ 19.90,100,Mash,Microfibra,Masculino,Primavera/Verão,3.1,6
+238,Kit 10 Cuecas Infantis Slip Algodão Mash Oferta,R$ 146.90,5%,R$ 139.90,5,Mash,Algodão,Masculino,Primavera/Verão,Sem avaliação,0
+239,Kit Com 10 Cuecas Slip Mash Básica Masculina Algodão Oferta,R$ 199.88,18%,R$ 169.39,500,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,4.7,159
+240,Kit 10 Cuecas Boxer Mash Algodão Cotton Box Original Oferta,R$ 279.86,22%,R$ 229.39,10000,Mash,Algodão,Masculino,Primavera/Verão,3.1,1700
+241,Kit Com 10 Cuecas Infantil Boxer Mash,R$ 150.12,8%,R$ 139.00,1000,Mash,Algodão,Meninos,Primavera/Verão,3.1,207
+242,Pacote Com 6 Cuecas De Algodão Mash Slip Promoção,R$ 71.90,0%,R$ 71.90,25,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,4.7,9
+243,Kit 6 Cuecas Slip Infantil Basic Em Algodão Original Mash,R$ 74.64,15%,R$ 64.90,0,Mash,Algodão,Meninos,Primavera/Verão,Sem avaliação,0
+244,Kit 10 Cuecas Boxer Mash Algodão Cotton Box Original Oferta,R$ 279.86,22%,R$ 229.39,10000,Mash,Algodão,Masculino,Primavera/Verão,4.6,1700
+245,Kit 6 Cuecas Boxer Mash Box Algodão Cotton Original Com Nf,R$ 107.96,0%,R$ 107.96,100,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,4.8,31
+246,Kit Cueca Slip Básicas Cós Elástico 10 Peças Mash - Oferta,R$ 220.17,23%,R$ 179.00,10000,Mash,Algodão,Masculino,Primavera/Verão,4.8,1784
+247,Kit 12 Cuecas Slip Mash 100% Algodão Comfort Pretas E Cinza,R$ 146.90,5%,R$ 139.90,5000,Mash,Algodão,Masculino,Primavera/Verão,4.6,609
+248,Kit 4 Cuecas Boxer Mash Algodão Cotton Box Original Oferta,R$ 83.95,7%,R$ 78.46,100,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,3.1,46
+249,Kit 10 Cuecas Boxer Mash Algodão Cotton Box Original Oferta,R$ 279.86,22%,R$ 229.39,10000,Mash,Algodão,Masculino,Primavera/Verão,3.1,1701
+250,Kit 10 Cuecas Algodão Mash - Promoção Box Masculina Adulto,R$ 189.99,0%,R$ 189.99,100,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,4.8,30
+251,6 Cuecas Mash Modelo Slip De Algodão Envio Imediato Com Nf,R$ 90.80,0%,R$ 90.80,3,Mash,Algodão,Masculino,Primavera-verão Outono-inverno,Sem avaliação,0
+252,Bermuda Térmica Masculina Esportiva Corrida Academia Treino,R$ 62.86,26%,R$ 49.89,10000,Keeper,Microfibra,Masculino,Primavera/Verão,4.8,1003
+253,Bermuda Térmica Anti Assadura Feminina Shorts Esporte Novo,R$ 51.91,21%,R$ 42.90,100,Keeper,Microfibra,Feminino,Primavera/Verão,3.1,14
+254,Bermuda Térmica Masculina Esportiva Corrida Academia Treino,R$ 60.16,24%,R$ 48.52,10000,Keeper,Microfibra,Masculino,Primavera/Verão,4.8,1004
+255,Short Térmico Bermuda Masculina Original Academia Treino,R$ 52.85,18%,R$ 44.79,500,Keeper,Microfibra,Masculino,Primavera/Verão,4.6,63
+256,Bermuda Térmica Feminina Esportiva Sem Costura Keeper,R$ 48.85,16%,R$ 42.11,25,Keeper,Microfibra,Feminino,Primavera/Verão,Sem avaliação,0
+257,Bermdua Térmica Short Academia Fitness Feminino Corrida,R$ 46.96,10%,R$ 42.69,5,Keeper,Microfibra,Feminino,Primavera/Verão,Sem avaliação,0
+258,Bermuda Térmica Academia Feminino Cintura Alta Fitness Top,R$ 48.85,16%,R$ 42.11,5,Keeper,Microfibra,Feminino,Primavera/Verão,Sem avaliação,0
+259,Kit 5 Cuecas Anti Assadura Sem Atrito Academia E Corrida,R$ 173.97,16%,R$ 149.97,50,Keeper,Microfibra,Masculino,Primavera/Verão,5,11
+260,Bermuda Térmica Masculina Esportiva Corrida Academia Treino,R$ 60.16,24%,R$ 48.52,10000,Keeper,Microfibra,Masculino,Primavera/Verão,3.1,1004
+261,Bermuda Térmica Anti Assadura Feminina Shorts Esporte Novo,R$ 54.85,14%,R$ 48.11,100,Keeper,Microfibra,Feminino,Primavera/Verão,4.7,40
+262,Kit 3 Bermuda Short Academia Fitness Feminino Tecido Térmico,R$ 158.88,14%,R$ 139.37,5,Keeper,Microfibra,Feminino,Primavera/Verão,3.1,1
+263,Bermuda Térmica Masculina Segunda Pele Anti Assadura Premium,R$ 52.85,18%,R$ 44.79,5,Keeper,Microfibra,Masculino,Primavera/Verão,Sem avaliação,0
+264,Kit 5 Cuecas Anti Assadura Esportiva Sem Costura Premium,R$ 273.96,37%,R$ 199.97,100,Keeper,Microfibra,Masculino,Primavera/Verão,3.1,50
+265,Bermuda Térmica Masculinas Atacado Revenda Esportiva Com Nf,R$ 52.85,18%,R$ 44.79,5,Keeper,Microfibra,Masculino,Primavera/Verão,Sem avaliação,0
+266,Kit 10 Cuecas Boxer Keeper Algodão Cotton Original Box,R$ 197.89,0%,R$ 197.89,2,Keeper,Algodão,Masculino,Primavera/Verão,Sem avaliação,0
+267,Bermuda Térmica Anti Assadura Feminina Shorts Esporte Novo,R$ 46.96,10%,R$ 42.69,4,Keeper,Microfibra,Feminino,Primavera/Verão,Sem avaliação,0
+268,Bermuda Térmica Masculina Esportiva Corrida Academia Treino,R$ 60.16,24%,R$ 48.52,10000,Keeper,Microfibra,Masculino,Primavera/Verão,4.8,1005
+269,Kit 10 Cueca Keeper Box Boxer Cotton Algodão Original-nf,R$ 228.78,16%,R$ 197.22,2,Keeper,Algodão,Masculino,Primavera/Verão,Sem avaliação,0
+270,Kit C/ 3 Cueca Box Térmica Sem Costura Anti Assadura Premium,R$ 119.78,16%,R$ 103.26,1,Keeper,Microfibra,Masculino,Primavera/Verão,Sem avaliação,0
+271,Kit 2 Calças Jeans Masculina Com Lycra.,R$ 141.02,5%,R$ 134.30,10000,Almix,Jean,Masculino,Primavera/Verão,3.1,2146
+272,Kit 3 Calça Jeans Masculina Tradicional  Original - Sortidas,R$ 205.07,8%,R$ 189.88,5000,Almix,Jeans,Masculino,Primavera/Verão,4.6,1240
+273,Kit 2 Calças Jeans Masculina Com Lycra.,R$ 141.02,5%,R$ 134.30,10000,Almix,Jean,Masculino,Primavera/Verão,4.6,2146
+274,Calça Jeans Masculina 100% Algodão.,R$ 64.90,0%,R$ 64.90,1000,Almix,Jean,Masculino,Outono/Inverno,3.1,122
+275,Kit 3 Calça Jeans Masculina Tradicional  Original - Sortidas,R$ 205.07,8%,R$ 189.88,5000,Almix,Jeans,Masculino,Primavera/Verão,3.1,1240
+276,Kit 2 Calças Jeans Masculina Com Lycra.,R$ 141.02,5%,R$ 134.30,10000,Almix,Jean,Masculino,Primavera/Verão,3.1,2146
+277,Kit 3 Calça Jeans Masculina Tradicional  Original - Sortidas,R$ 205.07,8%,R$ 189.88,5000,Almix,Jeans,Masculino,Primavera/Verão,3.1,1240
+278,Kit 2 Calças Jeans Masculina Com Lycra.,R$ 141.02,5%,R$ 134.30,10000,Almix,Jean,Masculino,Primavera/Verão,3.1,2146
+279,Kit 3 Calça Jeans Masculina Tradicional  Original - Sortidas,R$ 205.07,8%,R$ 189.88,5000,Almix,Jeans,Masculino,Primavera/Verão,4.6,1240
+280,Kit 3 Calça Jeans Masculina Tradicional  Original - Sortidas,R$ 205.07,8%,R$ 189.88,5000,Almix,Jeans,Masculino,Primavera/Verão,3.1,1240
+281,Kit 2 Calças Jeans Masculina Com Lycra.,R$ 141.02,5%,R$ 134.30,10000,Almix,Jean,Masculino,Primavera/Verão,4.6,2147
+282,Kit 3 Calça Jeans Masculina Tradicional  Original - Sortidas,R$ 205.07,8%,R$ 189.88,5000,Almix,Jeans,Masculino,Primavera/Verão,4.6,1240
+283,Kit 8 Peças De Roupa Infantil Masculino 4 Camisas + 4 Shorts,R$ 124.10,10%,R$ 112.82,1000,Imperio Kids,N/A,Bebês,N/A,3.1,388
+284,Kit 12 Peças De Roupa Infantil Menino = 6 Camisas + 6 Shorts,R$ 148.39,8%,R$ 137.40,5000,Imperio Kids,N/A,Meninos,N/A,3.1,1223
+285,Kit 5 Conjunto Menino Roupa Infantil Shorts Moletom Atacado,R$ 144.09,11%,R$ 129.81,10000,Imperio Kids,N/A,Masculino,N/A,3.1,2396
+286,Kit 8 Peças De Roupa Infantil Masculino 4 Camisas + 4 Shorts,R$ 124.10,10%,R$ 112.82,1000,Imperio Kids,N/A,Bebês,N/A,4.4,388
+287,Kit 8 Peças De Roupa Infantil Masculino 4 Camisas + 4 Shorts,R$ 124.10,10%,R$ 112.82,1000,Imperio Kids,N/A,Bebês,N/A,3.1,388
+288,Kit 10 Peças Menina Conjunto Infantil 5 Camisetas + 5 Shorts,R$ 211.85,36%,R$ 155.77,50,Imperio Kids,N/A,Meninas,N/A,4.1,1
+289,Kit 8 Peças De Roupa Infantil Masculino 4 Camisas + 4 Shorts,R$ 124.10,10%,R$ 112.82,1000,Imperio Kids,N/A,Bebês,N/A,3.1,388
+290,Kit 5 Conjunto Menina Roupa Infantil Atacado Mais Qualidade,R$ 203.80,31%,R$ 155.57,5,Imperio Kids,N/A,Meninas,N/A,Sem avaliação,0
+291,Kit 5 Conjunto Menina Roupa Infantil Atacado Mais Qualidade,R$ 203.80,31%,R$ 155.57,5,Imperio Kids,N/A,Meninas,N/A,Sem avaliação,0
+292,Kit 10 Peças Roupa Infantil Menino 5 Shorts + 5 Camisetas,R$ 170.84,10%,R$ 155.31,25,Imperio Kids,Algodão,Meninos,Primavera/Verão,2.1,5
+293,Kit 8 Peças De Roupa Infantil Masculino 4 Camisas + 4 Shorts,R$ 124.10,10%,R$ 112.82,1000,Imperio Kids,N/A,Bebês,N/A,3.1,388
+294,Kit 20 Peças Roupa Infantil Menino =10 Camisetas + 10 Shorts,R$ 230.10,9%,R$ 211.10,5000,Imperio Kids,N/A,Meninos,N/A,3.1,900
+295,Kit 5 Conjunto Menino Roupa Infantil Atacado Mais Qualidade,R$ 201.67,30%,R$ 155.13,100,Imperio Kids,N/A,Meninos,N/A,2.1,52
+296,Kit 8 Peças Roupa Infantil Menina 4 Camisas +4 Shorts Barato,R$ 124.10,10%,R$ 112.82,500,Imperio Kids,N/A,Meninas,N/A,3.1,157
+297,Kit 8 Peças De Roupa Infantil Masculino 4 Camisas + 4 Shorts,R$ 124.10,10%,R$ 112.82,1000,Imperio Kids,N/A,Bebês,N/A,3.1,388
+298,Kit 12 Peças De Roupa 1 Ao 14 Masculino 6 Camiseta +6 Shorts,R$ 163.10,11%,R$ 146.94,5000,Imperio Kids,N/A,Meninos,N/A,3.1,955
+299,Kit 8 Peças De Roupa Infantil Masculino 4 Camisas + 4 Shorts,R$ 124.10,10%,R$ 112.82,1000,Imperio Kids,N/A,Bebês,N/A,4.4,388
+300,Kit 10 Peças Roupa Infantil Masculina Moletinho Atacado,R$ 142.90,10%,R$ 129.91,1000,Imperio Kids,N/A,Meninos,N/A,4.4,256
+301,Kit 8 Peças De Roupa Infantil Masculino 4 Camisas + 4 Shorts,R$ 124.10,10%,R$ 112.82,1000,Imperio Kids,N/A,Bebês,N/A,4.4,388
+302,Kit Lote 6 Conjunto De Menina Roupa Infantil Feminino,R$ 139.90,0%,R$ 139.90,10000,AMANDIKA KIDS,N/A,Meninas,N/A,3.1,1796
+303,Kit Lote 6 Conjunto De Menina Roupa Infantil Feminino,R$ 139.90,0%,R$ 139.90,10000,AMANDIKA KIDS,N/A,Meninas,N/A,3.1,1796
+304,Kit Lote 6 Conjunto De Menina Roupa Infantil Feminino,R$ 139.90,0%,R$ 139.90,10000,AMANDIKA KIDS,N/A,Meninas,N/A,4.5,1797
+305,Kit Lote 6 Conjunto De Menina Roupa Infantil Feminino,R$ 139.90,0%,R$ 139.90,10000,AMANDIKA KIDS,N/A,Meninas,N/A,4.5,1797
+306,Kit Lote 6 Conjunto De Menina Roupa Infantil Feminino,R$ 139.90,0%,R$ 139.90,10000,AMANDIKA KIDS,N/A,Meninas,N/A,3.1,1798
+307,Kit Lote 6 Conjunto De Menina Roupa Infantil Feminino,R$ 139.90,0%,R$ 139.90,10000,AMANDIKA KIDS,N/A,Meninas,N/A,4.5,1798
+308,Calça Jeans Levis 511 Original Slim Fit Elastano,R$ 339.00,0%,R$ 339.00,100,Levi's,Algodao/Elastano,Masculino,Outono/Inverno,3.1,14
+309,Calça Levis Jeans Masculina Tradicional Elastano C Baixa 514,R$ 309.00,0%,R$ 309.00,500,Levi's,Algodão e Elastano,Masculino,Outono/Inverno,3.1,52
+310,Calça Levis Jeans Masculina Tradicional Elastano C Baixa 514,R$ 309.00,0%,R$ 309.00,50,Levi's,Algodão e Elastano,Masculino,Outono/Inverno,3.1,12
+311,Calça Jeans Levis 511 Original Slim Fit Elastano,R$ 339.00,0%,R$ 339.00,5,Levi's,Algodao/Elastano,Masculino,Outono/Inverno,4.1,3
+312,Calça Levi's 511 Slim Original Masculina,R$ 314.99,0%,R$ 314.99,500,Levi's,Algodão,Masculino,Primavera/Verão,3.1,109
+313,Calça Jeans Levis 501 Original Masculina Tradicional 115,R$ 319.00,0%,R$ 319.00,100,Levi's,Algodão,Masculino,Outono/Inverno,3.1,61
+314,Calça Levi's 501 Original Masculina 100% Algodão Importada,R$ 330.86,5%,R$ 315.10,100,Levi's,Algodão,Masculino,Primavera/Verão,3.1,28
+315,Calça Levis 501 Original Tradicional Masculina 100% Algodão,R$ 334.99,0%,R$ 334.99,100,Levi's,Algodão,Masculino,Primavera/Verão,3.1,29
+316,Calça Levi´s 505 Com Elastano Lb5050008,R$ 299.90,0%,R$ 299.90,50,Levi's,ALGODÃO COM ELASTANO,Masculino,Primavera/Verão,3.1,7
+317,Calça Levis Jeans 505 Azul Escuro,R$ 369.99,0%,R$ 369.99,100,Levi's,100% algodão,Masculino,Outono/Inverno,4.8,32
+318,Calça Levis Jeans 511 Slim Masculino Cintura Media Elastano,R$ 299.00,0%,R$ 299.00,50,Levi's,Algodão/Elastano,Masculino,Primavera/Verão,3.1,8
+319,Calça Levis Jeans 511 Slim Masculino Cintura Media Elastano,R$ 309.00,0%,R$ 309.00,500,Levi's,Algodão/Elastano,Masculino,Primavera/Verão,4.4,60
+320,Calça Jeans Levis 505 Tradicional Elastano Loja Aurorizada,R$ 299.00,0%,R$ 299.00,3,Levi's,Algodao /Elastano,Masculino,Primavera/Verão,Sem avaliação,0
+321,Calça Levi's 505 Masculina Sarja Com Elastano - Cor Preta,R$ 319.00,0%,R$ 319.00,50,Levi's,Sarja,Masculino,Outono/Inverno,3.1,7
+322,Calça Levis 511 Slim Original Masculina Importada Lançamento,R$ 369.99,0%,R$ 369.99,100,Levi's,Algodão,Masculino,Primavera/Verão,3.1,18
+323,Calça Levis Jeans Feminina Super Skinny 720 Elastano C. Alta,R$ 339.00,0%,R$ 339.00,50,Levi's,Algodão/Elastano,Feminino,Primavera/Verão,4.9,8
+324,Calça Levis 505 Original 100% Algodão Revendedor Autorizado,R$ 342.88,5%,R$ 326.55,100,Levi's,Algodão,Masculino,Outono/Inverno,4.5,25
+325,Calça Masculina Levis Jeans Azul 505 Escuro Ref:lb5050008,R$ 319.29,0%,R$ 319.29,3,Levi's,Algodão,Masculino,Primavera/Verão,Sem avaliação,0
+326,Calça Levi's 511 Masculina Sarja Com Elastano - Preta,R$ 367.90,0%,R$ 367.90,100,Levi's,Algodão,Masculino,Outono/Inverno,4.3,15
+327,Calça Levi´s 511 Slim Com Elastano Ref Lb5110018,R$ 318.90,0%,R$ 318.90,100,Levi's,Algodão com elastano,Masculino,Outono/Inverno,4.5,14
+328,Top Colete Compressor  Reduz Volume Do Peito Binder Trans,R$ 36.60,0%,R$ 36.60,500,Slim Fitness,N/A,Sem gênero,N/A,3.1,45
+329,Binder Top Colete De Compressão De Peito Para Trans,R$ 36.60,0%,R$ 36.60,500,Slim Fitness,N/A,Sem gênero,N/A,4.2,61
+330,Binder Com Alça - Esconde Reduz Pressiona Volume Peito Trans,R$ 51.87,5%,R$ 49.40,1000,Slim Fitness,N/A,Sem gênero,N/A,4.2,70
+331,Blusa De Moletom Las Vegas Raiders New Era Nfl Masculino Com,R$ 482.79,42%,R$ 339.99,1,New Era,N/A,Masculino,Outono/Inverno,Sem avaliação,0
+332,Pijama Masculino Botão Adulto Blusa Manga Curta E Shorts,R$ 53.99,0%,R$ 53.99,5000,Paraíso da Lingerie,Poliéster,Masculino,Primavera/Verão,3.1,704
+333,Pijama Masculino Adulto Camiseta Manga Curta E Shorts Verão,R$ 49.99,0%,R$ 49.99,500,Paraíso da Lingerie,Poliéster,Masculino,Primavera/Verão,3.1,81
+334,Pijama Homem Plus Size Conjunto Roupa De Dormir,R$ 54.99,0%,R$ 54.99,500,Paraíso da Lingerie,Poliéster,Masculino,Primavera/Verão,3.1,96
+335,Pijama Roupa Dormir  Masculina Camisa Meia Manga Calça Lisa,R$ 59.99,0%,R$ 59.99,5,Paraíso da Lingerie,Poliéster,Masculino,Outono/Inverno,4.1,1
+336,Pijama Masculino Plus Size Adulto Blusa Manga Curta E Shorts,R$ 54.99,0%,R$ 54.99,100,Paraíso da Lingerie,N/A,Masculino,N/A,4.6,15
+337,Pijama Homem Conjunto Meia Manga E Short Roupa De Dormir,R$ 44.99,0%,R$ 44.99,1000,Paraíso da Lingerie,Poliéster,Masculino,Primavera/Verão,4.7,392
+338,Kit 2 Top Reforçado Plus Size Alça Larga Confortável,R$ 61.99,0%,R$ 61.99,100,Paraíso da Lingerie,Poliéster,Feminino,N/A,3.1,21
+339,Kit 6 Cuecas/calcinhas Treinamento P/ Desfralde Dos Bebes,R$ 139.90,0%,R$ 139.90,1000,Importado,N/A,Bebês,N/A,3.1,363
+340,Calça Térmica Abertura Segunda Pele Legging Masculino Azul,R$ 35.97,10%,R$ 32.70,1,Marca Importado,Composição: 92% poliester 8% spandex,Masculino,Outono/Inverno,Sem avaliação,0
+341,Roupa De Frio Masculino Conjunto Calça Blusa Térmica Segunda Pele Flanelada Tamanho Unico Veste Do 36 Ate 46 - Promoção,R$ 78.32,0%,R$ 78.32,500,Marca Importado,Composição: 92% poliester 8% spandex,Masculino,Outono/Inverno,4.6,40
+342,Meia Babado Renda Pérola Rosa E Branca Curta Bebes Instagra,R$ 39.97,0%,R$ 39.97,5,Importado,N/A,Bebês,N/A,Sem avaliação,0
+343,Calça Térmica Cinza Abertura Segunda Pele Legging Masculino,R$ 35.40,10%,R$ 32.18,1,Marca Importado,Composição: 92% poliester 8% spandex,Masculino,Outono/Inverno,Sem avaliação,0
+344,Conjunto Calça Blusa Térmica Masculin Roupafrio Segunda Pele,R$ 78.32,0%,R$ 78.32,1000,Marca Importado,Composição: 92% poliester 8% spandex,Masculino,Outono/Inverno,4.6,68
+345,Conjunto Feminino Segunda Pele Térmico Roupa De Frio P/ Neve,R$ 78.90,0%,R$ 78.90,1000,Marca Importado,Composição: 92% poliester 8% spandex,Masculino,Outono/Inverno,3.1,144
+346,Organizador Necessaire Mala Kit 6 Pratico Look Roupas Viagem,R$ 44.87,13%,R$ 39.71,5000,Genérica,Náilon,Sem gênero,N/A,3.1,361
+347,Organizador Necessaire Mala Kit 6 Pratico Look Roupas Viagem,R$ 35.90,0%,R$ 35.90,5000,Genérica,Poliéster,Sem gênero,N/A,3.1,453
+348,Kit 2 Calça Legging Flanelada Forrada Peluciada Inverno,R$ 50.92,10%,R$ 46.29,1000,Genérica,Poliéster,Feminino,N/A,3.1,258
+349,Roupa Naruto Akatsuki Cosplay Itachi Postagem 24h Promoção,R$ 91.11,21%,R$ 75.30,1000,Genérica,Poliéster,Sem gênero,Outono/Inverno,4.7,139
+350,Organizador Necessaire Mala Kit 6 Pratico Look Roupas Viagem,R$ 29.99,0%,R$ 29.99,1000,Genérica,Náilon,Sem gênero,N/A,3.1,140
+351,Organizador Necessaire Mala Kit 6 Pratico Look Roupas Viagem,R$ 44.87,13%,R$ 39.71,5000,Genérica,Náilon,Sem gênero,N/A,4.4,361
+352,Biquini Infantil Maiô Menina Roupa De Praia Piscina Verão,R$ 39.99,0%,R$ 39.99,50,Genérica,N/A,Meninos,N/A,5,11
+353,Conjunto 3 Peças Infantil 04 Ao 16 Juvenil Meninas Barbie,R$ 58.00,0%,R$ 58.00,5,Genérica,N/A,Meninas,N/A,Sem avaliação,0
+354,Organizador Necessaire Mala Kit 6 Pratico Look Roupas Viagem,R$ 44.87,13%,R$ 39.71,5000,Genérica,Náilon,Sem gênero,N/A,4.4,361
+355,Body Bebe Temático Roupa De Bebê Vasco,R$ 19.13,0%,R$ 19.13,5,Genérica,N/A,Bebês,Primavera/Verão,4.1,2
+356,2 Calças Tactel Masculina 3 Bolsos Várias Cores Promoção,R$ 55.37,10%,R$ 50.34,500,Genérica,Tactel,Meninos,Outono/Inverno,3.1,53
+357,Masha E O Urso Roupa Conjunto Inverno Infantil Menino Bebe,R$ 109.99,0%,R$ 109.99,5,Genérica,N/A,Bebês,N/A,Sem avaliação,0
+358,Organizador Necessaire Mala Kit 6 Pratico Look Roupas Viagem,R$ 44.87,13%,R$ 39.71,5000,Genérica,Náilon,Sem gênero,N/A,4.4,361
+359,Conjunto Infantil 04 Ao 16 Juvenil Meninas Barbie,R$ 57.00,0%,R$ 57.00,5,Genérica,N/A,Meninas,N/A,Sem avaliação,0
+360,Lancheira Sonic Com Brinquedos Boneco + Quebra Cabeça 90 Pçs,R$ 95.43,15%,R$ 82.98,5,Genérica,N/A,N/A,N/A,Sem avaliação,0
+361,Kit Conjunto Infantil E Juvenil De Futebol Flamengo Terceiro,R$ 49.90,0%,R$ 49.90,5,Genérica,N/A,Sem gênero infantil,N/A,Sem avaliação,0
+362,Organizador Necessaire Mala Kit 6 Pratico Look Roupas Viagem,R$ 35.90,0%,R$ 35.90,5000,Genérica,Poliéster,Sem gênero,N/A,3.1,453
+363,Moletom Infantil Pikachu Com Capuz E Flanelado Confortável,R$ 89.90,0%,R$ 89.90,5,Genérica,Algodão,Sem gênero infantil,N/A,Sem avaliação,0
+364,Organizador Necessaire Mala Kit 6 Pratico Look Roupas Viagem,R$ 44.87,13%,R$ 39.71,5000,Genérica,Náilon,Sem gênero,N/A,3.1,361
+365,Body Bebe Temático Roupa De Bebê Botafogo,R$ 19.13,0%,R$ 19.13,5,Genérica,N/A,Bebês,Primavera/Verão,4.1,2
+366,Organizador Necessaire Mala Kit 6 Pratico Look Roupas Viagem,R$ 35.90,0%,R$ 35.90,5000,Genérica,Poliéster,Sem gênero,N/A,4.5,453
+367,Short Essential 9 Masculino Olympikus Novo,R$ 145.75,22%,R$ 119.47,50,Olympikus,Poliéster,Masculino,Primavera/Verão,3.1,16
+368,Short Essential 5 Masculina Olympikus,R$ 174.31,59%,R$ 109.63,25,Olympikus,Poliéster,Masculino,Primavera/Verão,2.1,6
+369,Bermuda Olympikus Essential 9 Preta,R$ 78.99,0%,R$ 78.99,5,Olympikus,Poliéster,Masculino,Primavera/Verão,Sem avaliação,0
+370,Short Essential Feminino Olympikus,R$ 133.33,22%,R$ 109.29,25,Olympikus,Poliéster,Feminino,Primavera/Verão,5,3
+371,Short Casual Feminino Olympikus Oferta,R$ 215.99,44%,R$ 149.99,25,Olympikus,Poliéster,Feminino,Primavera/Verão,4.5,4
+372,Bermuda Feminina Puma Lemlem Bike,R$ 209.99,0%,R$ 209.99,0,Puma,Poliamida,Feminino,Outono/Inverno,Sem avaliação,0
+373,Kit 4 Cuecas Boxer Puma Masculina Box Sem Costura Original,R$ 191.46,19%,R$ 160.89,1000,Puma,Poliamida,Masculino,Outono/Inverno,3.1,301
+374,Bermuda Masculina Puma Active Woven 5,R$ 99.99,0%,R$ 99.99,5,Puma,Poliéster,Masculino,Outono/Inverno,Sem avaliação,0
+375,Bermuda De Moletom Puma Essentials 10 - Masculina,R$ 188.99,26%,R$ 149.99,3,Puma,Algodão,Masculino,Outono/Inverno,Sem avaliação,0
+376,Bermuda Under Armour Woven Graphic Preto Vermelho,R$ 199.99,0%,R$ 199.99,1,Under Armour,Poliéster,Masculino,Primavera/Verão,Sem avaliação,0
+377,Calça Capri Under Armour Heat Gear Hi Feminina Preta,R$ 218.00,0%,R$ 218.00,1,Under Armour,Poliéster,Feminino,Outono/Inverno,Sem avaliação,0
+378,Bermuda Under Armour Tech Mesh Azul,R$ 119.90,0%,R$ 119.90,1,Under Armour,Poliéster,Masculino,Outono/Inverno,Sem avaliação,0
+379,Short De Treino Launch 7 Masculina Under Armour Novo,R$ 323.99,20%,R$ 269.99,5,Under Armour,Poliéster,Masculino,Outono/Inverno,Sem avaliação,0
